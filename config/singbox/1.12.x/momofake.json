@@ -155,7 +155,7 @@
   },
   "log": {
     "disabled": false,
-    "level": "info",
+    "level": "silent",
     "timestamp": true
   }
 }
